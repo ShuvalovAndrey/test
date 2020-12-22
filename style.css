@@ -1,6 +1,7 @@
 
 body {
   background-color: #333;
+  overflow: hidden;
 }
 
 .module {
@@ -8,7 +9,7 @@ body {
   height: calc(var(--vh, 1vh) * 100);
   margin: 0 auto;
   max-width: 100%;
-  overflow: hidden;
+  
 }
 
 .module__item {
