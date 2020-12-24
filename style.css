@@ -1,7 +1,7 @@
 html {
 /*   height: -webkit-fill-available; */
   position: fixed;
-  top: 0;
+  bottom: 0px;
 }
 body {
   background-color: #333;
